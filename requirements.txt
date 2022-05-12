@@ -1,0 +1,3 @@
+tensorflow>=2.8.0 # The backend used to compute the model
+matplotlib>=3.5.2 # The plot library inspired by Matlab
+Pillow>=9.1.0     # An imaging library
