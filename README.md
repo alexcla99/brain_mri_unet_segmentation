@@ -1,4 +1,4 @@
-## Implementation of a U-Net CNN for brain MRIs segmentation.
+# Implementation of a U-Net CNN for brain MRIs segmentation.
 
 Author: alexcla99  
 Version: 3.0.0
