@@ -46,19 +46,19 @@ Plot a sample of the dataset:
 Usage: python3 plot_sample.py <slice:int>
 # Example: python3 plot_sample.py 4
 ```
-The slice is selected from the "prepared_dataset" folder and the results are saved in the "out/samples" folder.
+The slice is selected from the "prepared_dataset" folder and results are saved in the "out/samples" folder.
 
 Train the model:
 ```Shell
 python3 train.py
 ```
-The data to be used is selected from the "prepared_dataset" folder and the results are saved in the "out/train" folder.
+Data to be used are selected from the "prepared_dataset" folder and results are saved in the "out/train" folder.
 
 Use the model to make predictions:
 ```Shell
 python3 predict.py
 ```
-The data to be used is selected from the "prepared_dataset" folder and the results are saved in the "out/predict" folder.
+Data to be used are selected from the "prepared_dataset" folder and results are saved in the "out/predict" folder.
 
 ### Thanks to:
 
