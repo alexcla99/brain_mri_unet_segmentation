@@ -64,4 +64,4 @@ Data to be used are selected from the "prepared_dataset" folder and results are 
 
 Many thanks to [Buda et al.](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation)
 
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
